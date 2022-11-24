@@ -1,0 +1,16 @@
+Reservation No.   : 231031
+Date                     : 31/05/2022
+Name                   : andrey
+Age                      : 20
+Reservation Date : 5/31/22
+Reservation Time : 07:00 am
+No. of Persons     : 2
+Contact No.          : 098566778
+Reservation No.   : 327937
+Date                     : 31/05/2022
+Name                   : bigboy
+Age                      : 23
+Reservation Date : 6/2/22
+Reservation Time : 08:00 pm
+No. of Persons     : 3
+Contact No.          : 09865666
