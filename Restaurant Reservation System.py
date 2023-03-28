@@ -142,7 +142,7 @@ class reserve:
             DateofReserve=StringVar()
             #Frame
             ButtonFrame4=LabelFrame(ButtonFrame2, text="Customer Details", font=("Britannic Bold",21), bg="SkyBlue2", bd=10, relief=RIDGE)
-            ButtonFrame4.place(x=0, y=156, width=410, height=334)
+            ButtonFrame4.place(x=0, y=156, width=410, height=335)
             #Entry
             name1 = Label(ButtonFrame4,text="Name ", font=("Arial",14,"bold"), bg="SkyBlue2")
             name1.grid(row=0,column=0,padx=2,pady=2)
